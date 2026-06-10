@@ -84,3 +84,4 @@ String calculateGrade(double mark) {
     return "F";
   }
 }
+// Day 2 Completed
